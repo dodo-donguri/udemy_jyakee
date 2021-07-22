@@ -10,7 +10,7 @@ export const homeRoutes = [
     children: <Home />,
   },
   {
-    path: "/use_management",
+    path: "/user_management",
     exact: true,
     children: <UserManagement />,
   },
